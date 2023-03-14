@@ -1,1 +1,2 @@
-# Pet-Clinic
+# Pet Clinic
+Routine [pet clinic](https://veterinarianappnow.com/) visits help your pet live a long, healthy, and happy life. Annual or biannual exams nip emerging health problems in the bud and are key to extending your pet's time by your side. Veterinary clinic means a building or part of a building providing the services of a veterinarian, and facilities for the medical treatment, examination, surgery, diagnosis, grooming, general health care, and observation of domestic animals and birds.
